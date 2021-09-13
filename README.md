@@ -6,5 +6,25 @@ Neste curso, daremos o primeiro passo para aprendizagem de CSS. Mostraremos, na 
 
 <hr>
 
+<ul>
+  <li>Introdução</li>
+  <li>Entendendo CSS na prática</li>
+  <li>Seletores CSS</li>
+  <li>Relacionamento de seletores</li>
+  <li>Prioridade de substituição</li>
+  <li>Pseudo-seletores</li>
+  <li>Exemplo prático links</li>
+  <li>Outros seletores interessantes</li>
+  <li>Folhas de estilos externas</li>
+  <li>Fontes</li>
+  <li>Margem e borda</li>
+  <li>Display e visibilidade</li>
+  <li>Posicionamento</li>
+  <li>Exemplo prático menu</li>
+  <li>Exemplo prático formulário</li>
+</ul>
+
+<hr>
+
 <h4><b>Aulas:</b> :vhs: 14 video-aulas</h4>
 <h4><b>Status do Curso:</b> :speech_balloon: Estudando</h4>
