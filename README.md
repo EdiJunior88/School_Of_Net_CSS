@@ -26,5 +26,5 @@ Neste curso, daremos o primeiro passo para aprendizagem de CSS. Mostraremos, na 
 
 <hr>
 
-<h4><b>Aulas:</b> :vhs: 14 video-aulas</h4>
+<h4><b>Aulas:</b> :vhs: 15 video-aulas</h4>
 <h4><b>Status do Curso:</b> :white_check_mark: Completado</h4>
