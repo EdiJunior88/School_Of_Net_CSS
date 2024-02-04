@@ -6,6 +6,12 @@ Neste curso, daremos o primeiro passo para aprendizagem de CSS. Mostraremos, na 
 
 <hr>
 
+<h3>Tecnologias Utilizadas</h3>
+
+Para ver todas as tecnologias [clique aqui](/techstack.md)
+
+<hr>
+
 <ul>
   <li>Introdução</li>
   <li>Entendendo CSS na prática</li>
